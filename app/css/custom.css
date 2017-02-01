@@ -1,6 +1,5 @@
 /*
 Static file for Theme changes
-Theme name: ADI - Farmers Mutual Hail
 Version: 1.0
 Template: Base
 Created: 10/14/16
@@ -80,7 +79,7 @@ Authors: Coverdale Group
 
 .category-navigation .navbar .container .navbar-nav.pull-right li a,
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a {
-    padding:20px;
+    padding:15px 20px;
     color:#636467;
 }
 
@@ -162,8 +161,9 @@ body {
 
 
 body a {
-    color: #0877A7;
-    font-size: 16px;
+/*    color: #0877A7;*/
+    color: #ff0000;
+    font-size: 15px;
     font-weight: bold;
 }
 
